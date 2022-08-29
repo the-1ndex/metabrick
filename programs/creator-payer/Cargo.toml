@@ -20,3 +20,6 @@ overflow-checks = true
 
 [dependencies]
 anchor-lang = "0.24.2"
+mpl-token-metadata = { version = "1.2.5", features = ["no-entrypoint"] }
+metaplex-token-metadata = { version = "0.0.1", features = [ "no-entrypoint" ] }
+solana-program = "1.9.29"
